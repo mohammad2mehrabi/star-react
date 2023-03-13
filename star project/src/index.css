@@ -1,0 +1,19 @@
+
+@font-face {
+  font-family: "font";
+  src: url("font/BrenzaRegular-lgpRy.ttf");
+
+}
+
+
+body {
+  margin: 0;
+  font-family: 'font';
+
+}
+
+#root{
+  background-image: url('components/High_resolution_wallpaper_background_ID_77701195257.jfif');
+  background-size: cover;
+  height: 120vh;
+}

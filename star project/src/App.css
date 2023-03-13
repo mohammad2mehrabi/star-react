@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "font";
+  src: url("font/BrenzaRegular-lgpRy.ttf");
+
+}
+
+
+body{
+  background: #EDEDED;
+  font-family: 'font';
+}
+
+.page-body{
+  width: 1176px;
+  margin: 0 auto;
+}
+
+
+@media (max-width: 825px){
+  .page-body{
+    width: 456px;
+  }
+}
+
+@media (max-width: 425px){
+  .page-body{
+    width: 358px;
+  }
+}
