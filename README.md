@@ -1,4 +1,4 @@
 # star-react
 cmd runing
-npm install
-npm start
+/npm install
+/npm start
